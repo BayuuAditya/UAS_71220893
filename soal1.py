@@ -45,17 +45,14 @@ if p == "2" :
     
 if p == "3" : 
     print("Daftar Anggota Justice League :")
-    print("Belum Ada" )
+    print("Barry Allen, Diana Prince, Arthur Curry")
     print("1. Tambah Anggota Justice League")
     print("2. Hapus Anggota Justice League")
     print("3. Tampilkan Anggota Justice League")
     print("4. Exit")
-
 if p == "4" :
     print("see u next time MR.", user, "GLHF")
-    
 
-#2
 p = input("Masukan Pilihan Anda :")
 if p == "1" : 
     w = input("Nama Anggota Baru : ")
@@ -98,7 +95,7 @@ if p == "2" :
     print("4. Exit")
 if p == "3" : 
     print("Daftar Anggota Justice League :")
-    print(r)
+    print("Barry Allen, Diana Prince, Arthur Curry")
     print("1. Tambah Anggota Justice League")
     print("2. Hapus Anggota Justice League")
     print("3. Tampilkan Anggota Justice League")
@@ -123,7 +120,33 @@ if p == "2" :
     print("4. Exit")
 if p == "3" : 
     print("Daftar Anggota Justice League :")
-    print(r ,"dan", w)
+    print("Barry Allen, Diana Prince, Arthur Curry")
+    print("1. Tambah Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("3. Tampilkan Anggota Justice League")
+    print("4. Exit")
+if p == "4" :
+    print("see u next time MR.", user, "GLHF")
+
+#7
+p = input("Masukan Pilihan Anda :")
+if p == "1" : 
+    r = input("Nama Anggota Baru : ")
+    print ("Data", r, "Berhasil Ditambahkan")
+    print("1. Tambah Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("3. Tampilkan Anggota Justice League")
+    print("4. Exit")
+if p == "2" : 
+    r = input("Anggota yang akan dihapus: ")
+    print("Data", r,"Berhasil Dihapus")
+    print("1. Tambah Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("3. Tampilkan Anggota Justice League")
+    print("4. Exit")
+if p == "3" : 
+    print("Daftar Anggota Justice League :")
+    print("Barry Allen, Diana Prince, Arthur Curry")
     print("1. Tambah Anggota Justice League")
     print("2. Hapus Anggota Justice League")
     print("3. Tampilkan Anggota Justice League")
